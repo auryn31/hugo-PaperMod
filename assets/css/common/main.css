@@ -79,7 +79,6 @@ pre:hover .copy-code {
     color: #f5f6fa;
     padding: 0 32px;
     box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39);
-
     transition: 400ms;
 }
 
@@ -101,8 +100,20 @@ pre:hover .copy-code {
 
 .cookie-btn {
     margin-top: 1rem;
-    background: #e84118;
+    background: #e84218b7;
     border: 0;
+    color: #f5f6fa;
+    padding: .6rem 1.2rem;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+.nope-cookie-btn {
+    margin-top: 1rem;
+    border: 0;
+    background: #18e876ab;
     color: #f5f6fa;
     padding: .6rem 1.2rem;
     font-size: 1.2rem;
