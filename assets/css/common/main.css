@@ -100,7 +100,7 @@ pre:hover .copy-code {
 
 .cookie-btn {
     margin-top: 1rem;
-    background: #e84218b7;
+    background: #18e876ab;
     border: 0;
     color: #f5f6fa;
     padding: .6rem 1.2rem;
@@ -113,7 +113,7 @@ pre:hover .copy-code {
 .nope-cookie-btn {
     margin-top: 1rem;
     border: 0;
-    background: #18e876ab;
+    background: #e84218b7;
     color: #f5f6fa;
     padding: .6rem 1.2rem;
     font-size: 1.2rem;
